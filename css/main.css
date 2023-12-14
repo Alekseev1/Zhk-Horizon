@@ -466,7 +466,7 @@ html, body {
   }
 }
 .header {
-  background: linear-gradient(180deg, #242b33 9.9%, rgba(36, 43, 51, 0) 50%, #232a31 86.17%), url("./../../img/header/header-bg.jpg"), lightgray 50%/cover no-repeat;
+  background: linear-gradient(180deg, #242b33 9.9%, rgba(36, 43, 51, 0) 50%, #232a31 86.17%), url("./../img/header/header-bg.jpg"), lightgray 50%/cover no-repeat;
   background-repeat: no-repeat;
   background-position: center;
   object-fit: cover;
